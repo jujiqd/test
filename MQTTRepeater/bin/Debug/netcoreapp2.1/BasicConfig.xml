@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root xmlns="">
+  <MQTT>
+    <url>123.207.200.7</url>
+    <port>21883</port>
+  </MQTT>
+</root>

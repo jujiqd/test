@@ -1,0 +1,13 @@
+[2020-09-12 12:27:41] 初始化错误：Unable to connect to any of the specified MySQL hosts.
+[2020-09-12 12:27:41] 心跳包发送错误：Object reference not set to an instance of an object.
+
+Unhandled Exception: [2020-09-12 12:27:42] Object reference not set to an instance of an object.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at MQTTRepeater.Program.GetSub()
+   at MQTTRepeater.Program.ReflashSub()
+   at System.Threading.Thread.ThreadMain_ThreadStart()
+   at System.Threading.ThreadHelper.ThreadStart_Context(Object state)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.ThreadHelper.ThreadStart()
