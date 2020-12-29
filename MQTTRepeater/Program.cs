@@ -87,8 +87,23 @@ namespace MQTTRepeater
             tHeartBeat.Start();
             Thread tReflashSub = new Thread(ReflashSub);//刷新订阅
             tReflashSub.Start();
+            Thread tReflashWork = new Thread(APworking);//刷新硬件采集存储
+            tReflashWork.Start();
         }
 
+         private static void APworking()
+        {
+            while(true)
+            {
+                //扫描硬件
+
+
+                //判断输出
+                Thread.Sleep(3600000);//间隔扫描时间
+            }
+        }
+
+        
         /// <summary>
         /// 初始化系统信息改到启动时候运行
         /// </summary>
