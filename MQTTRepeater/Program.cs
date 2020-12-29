@@ -565,7 +565,7 @@ namespace MQTTRepeater
             if (gettopic.Contains("ADDgpio"))//  
             {
 
-
+                ////addgpio
             }
 
             string strSql = string.Format("update param_temp set needset=1,setvalue={1} where paramid={0}", e.ApplicationMessage.Topic, Encoding.UTF8.GetString(e.ApplicationMessage.Payload));
