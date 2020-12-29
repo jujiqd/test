@@ -46,3 +46,14 @@ D:\KF\reP\home\MQTTRepeater\MQTTRepeater\obj\Debug\netcoreapp2.1\MQTTRepeater.As
 D:\KF\reP\home\MQTTRepeater\MQTTRepeater\obj\Debug\netcoreapp2.1\MQTTRepeater.dll
 D:\KF\reP\home\MQTTRepeater\MQTTRepeater\obj\Debug\netcoreapp2.1\MQTTRepeater.pdb
 D:\KF\reP\home\MQTTRepeater\MQTTRepeater\obj\Debug\netcoreapp2.1\MQTTRepeater.csprojAssemblyReference.cache
+D:\proj\test\MQTTRepeater\bin\Debug\netcoreapp2.1\MQTTRepeater.dll.config
+D:\proj\test\MQTTRepeater\bin\Debug\netcoreapp2.1\MQTTRepeater.deps.json
+D:\proj\test\MQTTRepeater\bin\Debug\netcoreapp2.1\MQTTRepeater.runtimeconfig.json
+D:\proj\test\MQTTRepeater\bin\Debug\netcoreapp2.1\MQTTRepeater.runtimeconfig.dev.json
+D:\proj\test\MQTTRepeater\bin\Debug\netcoreapp2.1\MQTTRepeater.dll
+D:\proj\test\MQTTRepeater\bin\Debug\netcoreapp2.1\MQTTRepeater.pdb
+D:\proj\test\MQTTRepeater\obj\Debug\netcoreapp2.1\MQTTRepeater.csproj.CoreCompileInputs.cache
+D:\proj\test\MQTTRepeater\obj\Debug\netcoreapp2.1\MQTTRepeater.AssemblyInfoInputs.cache
+D:\proj\test\MQTTRepeater\obj\Debug\netcoreapp2.1\MQTTRepeater.AssemblyInfo.cs
+D:\proj\test\MQTTRepeater\obj\Debug\netcoreapp2.1\MQTTRepeater.dll
+D:\proj\test\MQTTRepeater\obj\Debug\netcoreapp2.1\MQTTRepeater.pdb

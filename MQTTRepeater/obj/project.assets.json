@@ -5993,11 +5993,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\KF\\reP\\home\\MQTTRepeater\\MQTTRepeater\\MQTTRepeater.csproj",
+      "projectUniqueName": "D:\\proj\\test\\MQTTRepeater\\MQTTRepeater.csproj",
       "projectName": "MQTTRepeater",
-      "projectPath": "D:\\KF\\reP\\home\\MQTTRepeater\\MQTTRepeater\\MQTTRepeater.csproj",
+      "projectPath": "D:\\proj\\test\\MQTTRepeater\\MQTTRepeater.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "D:\\KF\\reP\\home\\MQTTRepeater\\MQTTRepeater\\obj\\",
+      "outputPath": "D:\\proj\\test\\MQTTRepeater\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -493,6 +493,8 @@ namespace MQTTRepeater
     /// <param name="e"></param>
     private static void _client_ApplicationMessageReceived(object sender, MQTTnet.MqttApplicationMessageReceivedEventArgs e)
         {
+            //dfsajflasdjf
+            
             PurVar.PurStatic.WriteToStatus("收到来自客户端" + e.ClientId + "，主题为" + e.ApplicationMessage.Topic + "的消息：" + Encoding.UTF8.GetString(e.ApplicationMessage.Payload));
             string gettopic = e.ApplicationMessage.Topic;
             string getstr= Encoding.UTF8.GetString(e.ApplicationMessage.Payload);//得到json字符串
